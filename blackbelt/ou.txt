@@ -1,0 +1,5 @@
+ham,ham,ham,ham,ham,ham
+ice,ice,ice,ice,ice
+cat,cat,cat,cat
+ku,ku,ku
+all,all
